@@ -13,4 +13,8 @@ flash the firmware
 ```
 
 
-** remember to activate the venv
+** remember to activate the venv first if you havent already
+
+```
+        source ~/zephyrproject/.venv/bin/activate
+```
